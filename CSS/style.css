@@ -18,6 +18,19 @@ h1{
     font-weight: bold;
     cursor: pointer;
 }
+.columnMiddle a{
+    font-family:'Open Sans', sans-serif;
+    font-size: 40px;
+    line-height: 1.5em;
+    margin: 0;
+    font-weight: bold;
+    cursor: pointer;
+    color: #c23b3b;
+}
+
+.columnMiddle a:hover {
+    text-decoration: none;
+}
 
 .columnLeft{
     flex:1;
