@@ -378,8 +378,12 @@ h1{
     padding-bottom: 30px;
 }
 
+.form-check input{
+    transform: scale(2);
+}
+
 .form-check label{
-    padding-right: 10px;
+    padding-left: 10px;
 }
 .nextContainer{
     display:flex;
